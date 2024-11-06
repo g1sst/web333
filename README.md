@@ -286,7 +286,7 @@
     <div class="ontainer-fluid">
       <div class="bg-secondary text-white p-4 rounded">
         <footer>
-            <p>© Jahongir Dekhkonov</p>
+            <p>© Bogomolov Nik</p>
         </footer>
       </div>
     </div>
